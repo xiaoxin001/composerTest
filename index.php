@@ -6,15 +6,9 @@
  * Time: 下午10:35
  */
 
-#test
-require_once __DIR__."/src/Test.class.php";
+require_once __DIR__."/src/DesUtils.php";
 
-$test = new \xx\wxmini\Test();
-$test->sayHelloWorld();
+$user_phone = OYXX\Tools\DesUtils::encrypt("13428342132");
 
-echo "<br/>";
-
-$test->sayName();
-
-phpinfo();
+echo $user_phone;
 

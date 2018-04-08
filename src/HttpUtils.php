@@ -5,7 +5,7 @@
  * Date: 2018/4/7
  * Time: 下午11:28
  */
-namespace xx\wxmini;
+namespace OYXX\Tools;
 
 class HttpUtils {
 
