@@ -9,7 +9,7 @@ namespace OYXX\Tools;
 
 class DesUtils {
 
-    const KEY = "eJiAyOu^2014";
+    const KEY = "oyxx";
 
     /**
      * 可加密一个或多个半角逗号分隔的字符串
