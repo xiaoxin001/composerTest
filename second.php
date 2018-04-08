@@ -1,3 +1,4 @@
 <?php
-	echo "xiaoxin";
+	echo "yijiayou";
+	phpinfo();
 ?>
