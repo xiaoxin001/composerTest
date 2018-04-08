@@ -15,3 +15,5 @@ $test->sayHelloWorld();
 echo "<br/>";
 
 $test->sayName();
+
+phpinfo();
