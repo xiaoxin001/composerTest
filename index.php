@@ -16,4 +16,3 @@ echo "<br/>";
 
 $test->sayName();
 
-phpinfo();
