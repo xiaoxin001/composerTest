@@ -12,7 +12,6 @@ $user_phone = OYXX\Tools\DesUtils::encrypt("13428342132");
 
 echo $user_phone;
 
-echo "1.1.1";
+echo "1.1.0";
 
-echo "1.0.18";
 
