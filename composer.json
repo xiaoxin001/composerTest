@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "ejiayou/phputils": "1.1.1"
+    "ejiayou/phputils": "1.1.2"
   },
   "autoload": {
     "psr-4": {
