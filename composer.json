@@ -11,11 +11,17 @@
     }
   ],
   "require": {
-    "php": ">=5.6.0"
+    "ejiayou/phputils": "1.1.1"
   },
   "autoload": {
     "psr-4": {
       "OYXX\\Tools\\": "src/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
     }
   }
 }
